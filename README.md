@@ -28,8 +28,8 @@ Here are the links to download the CO2 Emissions dataset, the time-series datase
 Here is a short description of the folder contents in this repository:
 
 **01. Documentation**: contains the following PDF files: 
-- A6 Project brief: includes the criteria and limitations of the project. Guidelines were provided by CareerFoundry
-- Data Profile: An overview including the wrangling steps, consistency checks, the data dictionary and my initial research questions
+- **A6 Project brief:** includes the criteria and limitations of the project. Guidelines were provided by CareerFoundry
+- **Data Profile:** An overview including the wrangling steps, consistency checks, the data dictionary and my initial research questions
 
 **02. Data**: contains
 
