@@ -12,5 +12,5 @@ My goal was to look into the distribution of CO2 emissions and key factors, focu
 - Investigating different sources of energy and respective levels of emissions.
 
 ## Data
-The dataset is publicly disclosed open data collected by 
+The dataset is publicly disclosed open data collected by [Our World in Data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions)
 
