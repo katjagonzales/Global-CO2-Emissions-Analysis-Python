@@ -33,9 +33,9 @@ Here is a short description of the folder contents in this repository:
 
 **02. Data**: contains two subfolders:
 - **Original Data:** includes the original csv file (owid-co2-data) and the JSON file used for geospatial analysis
-- **Prepared Data:** includes the different versions of the dataframe as pkl files
+- **Prepared Data:** includes the different versions of the dataframe as pkl files.
   The last version is also available as a csv file (needed to create visualizations in Tableau)
 
-**03. Scripts**: contains all scripts
+**03. Scripts**: contains all Python scripts (Jupyter Notebook). Please note that script 6.3 couldn't be uploaded (not even in the compressed version) because of the max file size limitation of GitHub.
 
 **04. Visualizations**: contains all visualizations for this project generated in Python
