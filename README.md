@@ -39,3 +39,6 @@ Here is a short description of the folder contents in this repository:
 **03. Scripts**: contains all Python scripts (Jupyter Notebook). Please note that script 6.3 couldn't be uploaded (not even in a compressed version) because of the max file size limitation of GitHub.
 
 **04. Visualizations**: contains the visualizations for the project created in Python. Please note that most visualizations were created in the final phase of the project, utilizing Tableau.
+
+## Deliverables
+The most relevant results of this case study can be viewed as an interactive storyboard on Tableau: 
