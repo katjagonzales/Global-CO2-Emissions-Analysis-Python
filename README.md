@@ -11,3 +11,6 @@ My goal was to look into the distribution of CO2 emissions and key factors, focu
 -  Identifying countries that produce the highest CO2 emissions.
 - Investigating different sources of energy and respective levels of emissions.
 
+## Data
+The dataset is publicly disclosed open data collected by 
+
