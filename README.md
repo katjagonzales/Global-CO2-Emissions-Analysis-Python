@@ -41,4 +41,4 @@ Here is a short description of the folder contents in this repository:
 **04. Visualizations**: contains the visualizations for the project created in Python. Please note that most visualizations were created in the final phase of the project, utilizing Tableau.
 
 ## Deliverables
-The most relevant results of this case study can be viewed as an interactive storyboard on Tableau: 
+The most relevant results of this case study can be viewed as an interactive storyboard on [Tableau](https://public.tableau.com/app/profile/katja.gonzales/viz/GlobalCO2EmissionsAnalysis_16875266911180/DataStory)
