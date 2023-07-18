@@ -42,3 +42,21 @@ Here is a short description of the folder contents in this repository:
 
 ## Deliverables
 The most relevant results of this case study can be viewed as an interactive storyboard on [Tableau](https://public.tableau.com/app/profile/katja.gonzales/viz/GlobalCO2EmissionsAnalysis_16875266911180/DataStory)
+
+## Tools
+- *Tableau*
+
+- *Python* using the following libraries:
+  * pandas
+  * numpy
+  * os
+  * seaborn
+  * matplotlib
+  * scipy
+  * folium
+  * json
+  * sklearn
+  * pylab
+  * quandl
+  * statsmodels
+  * datetime
