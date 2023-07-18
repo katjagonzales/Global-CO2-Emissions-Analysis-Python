@@ -31,7 +31,10 @@ Here is a short description of the folder contents in this repository:
 - **A6 Project brief:** includes the criteria and limitations of the project. Guidelines were provided by CareerFoundry
 - **Data Profile:** An overview including the wrangling steps, consistency checks, the data dictionary and my initial research questions
 
-**02. Data**: contains
+**02. Data**: contains two subfolders:
+- **Original Data:** includes the original csv file (owid-co2-data) and the JSON file used for geospatial analysis
+- **Prepared Data:** includes the different versions of the dataframe as pkl files
+  The last version is also available as a csv file (needed to create visualizations in Tableau)
 
 **03. Scripts**: contains all scripts
 
