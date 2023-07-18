@@ -12,5 +12,9 @@ My goal was to look into the distribution of CO2 emissions and key factors, focu
 - Investigating different sources of energy and respective levels of emissions.
 
 ## Data
-The dataset is publicly disclosed open data collected by [Our World in Data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions)
+The dataset is publicly disclosed open data collected by [Our World in Data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions).
+I downloaded it on GitHub. The CO2 and Greenhouse Gas Emissions dataset is updated regularly and is built upon a number of datasets and processing steps.
+Below the links are provided to download the CO2 Emissions dataset, the time-series dataset (only used in script 6.6) and the JSON file used for the geospatial analysis.
+[CO2 and Greenhouse Gas Emissions dataset](https://github.com/owid/co2-data)
+
 
