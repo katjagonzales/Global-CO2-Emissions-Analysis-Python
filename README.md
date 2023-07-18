@@ -23,3 +23,6 @@ These are the links to download the CO2 Emissions dataset, the time-series datas
 [Carbon Dioxide (CO2) Emissions - USA](https://data.nasdaq.com/data/BP/C02_EMMISSIONS_USA-carbon-dioxide-co2-emmissions-usa)
 
 [Country Polygons as GeoJSON](https://datahub.io/core/geo-countries#data)
+
+## Folders
+Here is a short description of the folder contents in this repository:
