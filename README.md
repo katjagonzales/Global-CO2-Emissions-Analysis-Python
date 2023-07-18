@@ -26,3 +26,11 @@ These are the links to download the CO2 Emissions dataset, the time-series datas
 
 ## Folders
 Here is a short description of the folder contents in this repository:
+
+**01. Documentation**: contains the Project brief 
+
+**02. Data**: contains
+
+**03. Scripts**: contains all scripts
+
+**04. Visualizations**: contains all visualizations for this project generated in Python
