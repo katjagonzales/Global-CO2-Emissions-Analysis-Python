@@ -19,4 +19,4 @@ Below the links are provided to download the CO2 Emissions dataset, the time-ser
 
 [CO2 and Greenhouse Gas Emissions dataset](https://github.com/owid/co2-data)
 
-
+[Carbon Dioxide (CO2) Emissions - USA](https://data.nasdaq.com/data/BP/C02_EMMISSIONS_USA-carbon-dioxide-co2-emmissions-usa)
