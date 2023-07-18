@@ -36,6 +36,6 @@ Here is a short description of the folder contents in this repository:
 - **Prepared Data:** includes the different versions of the dataframe as pkl files.
   The last version is also available as a csv file (needed to create visualizations in Tableau)
 
-**03. Scripts**: contains all Python scripts (Jupyter Notebook). Please note that script 6.3 couldn't be uploaded (not even in the compressed version) because of the max file size limitation of GitHub.
+**03. Scripts**: contains all Python scripts (Jupyter Notebook). Please note that script 6.3 couldn't be uploaded (not even in a compressed version) because of the max file size limitation of GitHub.
 
-**04. Visualizations**: contains all visualizations for this project generated in Python
+**04. Visualizations**: contains the visualizations for the project created in Python. Please note that most visualizations were created in the final phase of the project, utilizing Tableau.
